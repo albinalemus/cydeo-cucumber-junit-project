@@ -1,14 +1,9 @@
 package com.cydeo.utilities;
 
-
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
-/*
-In this class, we will be creating the re-usable logic to read from
-configuration.properties file
- */
 public class ConfigurationReader {
 
     //1- Create the Properties object (create object)
